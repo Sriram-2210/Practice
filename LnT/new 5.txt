@@ -1,0 +1,6 @@
+obj/carrier submission/ExpirationDate  :  InsuranceSvcRq/GeneralLiabilityPolicyQuoteIngRq/CommlPolicy/ContractTerm/ExpirationDt
+obj/carrier submission/Insured/Address/State  :  InsuranceSvcRq/GeneralLiabilityPolicyQuoteIngRq/Location/Addr/State
+obj/carrier submission/Insured/Address/Address1  :  InsuranceSvcRq/GeneralLiabilityPolicyQuoteIngRq/Location/Addr/Addr1
+obj/carrier submission/Insured/Address/Address2  :  InsuranceSvcRq/GeneralLiabilityPolicyQuoteIngRq/Location/Addr/Addr2
+obj/carrier submission/CommercialGeneralLiability/Classifications  :  InsuranceSvcRq/GeneralLiabilityPolicyQuoteIngRq/GeneralLiabilityLineBusiness/LiabilityInfo/GeneralLiabilityClassification/ClassCd
+obj/carrier submission/Insured/Address/ZipCode  :  InsuranceSvcRq/GeneralLiabilityPolicyQuoteIngRq/Location/Addr/PostalCode
