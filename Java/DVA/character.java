@@ -1,3 +1,4 @@
+package DVA;
 public class character {
     public static void main(String[] args) {
         char c1, c2, c3;

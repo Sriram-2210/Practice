@@ -1,3 +1,4 @@
+package DVA;
 public class light {
     public static void main(String[] args) {
        int lightspeed;
